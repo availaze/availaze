@@ -52,8 +52,7 @@ I'm focusing on exploring new technologies and pushing the boundaries of what's 
 
 > King's Indian Defense
 
-I really love playing the **King's Indian Defense** due to its ability to gather more materials <br>
-while avoiding blunders, with a solid and flexible pawn structure, making it a robust opening <br>
+I really love playing the **King's Indian Defense** with a solid and flexible pawn structure, <br> making it a robust opening
 despite its drawback <br>
 
 
