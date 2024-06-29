@@ -29,6 +29,7 @@ I'm focusing on exploring new technologies and pushing the boundaries of what's 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
 
 ## My Favorite Chess Opening
+
 I really love playing the King's Indian Defense due to its ability to gather more materials <br>
 while avoiding blunders, with a solid and flexible pawn structure, making it a robust opening <br>
 despite its drawback <br>
