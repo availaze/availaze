@@ -5,15 +5,16 @@ I'm focusing on exploring new technologies and pushing the boundaries of what's 
 
 ## Some cool quotes, i guess?
 
-> **"Impossible is a word to be found only in the dictionary of fools."** – Napoleon Bonaparte
-
-> **"The best way to predict the future is to invent it."** – Alan Kay
-
-> **"Stay hungry, stay foolish."** – Steve Jobs
-
-> **"Success is not final, failure is not fatal: It is the courage to continue that counts."** – Winston Churchill
-
-> **"The only limit to our realization of tomorrow is our doubts of today."** – Franklin D. Roosevelt
+*"Impossible is a word to be found only in the dictionary of fools."* <br>
+– Napoleon Bonaparte <br><br>
+*"The best way to predict the future is to invent it."* <br>
+– Alan Kay <br><br>
+*"Stay hungry, stay foolish."* <br>
+– Steve Jobs <br><br>
+*"Success is not final, failure is not fatal: It is the courage to continue that counts."* <br>
+– Winston Churchill <br><br>
+*"The only limit to our realization of tomorrow is our doubts of today."* <br>
+– Franklin D. Roosevelt <br>
 
 ## Tech Stack
 
