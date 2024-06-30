@@ -79,7 +79,7 @@ King Indian Defense : The Main Line
 
 ```
 
-## Here's some poetry written by ChatGPT
+## Relief
 
 ```
 In the shadow of the moon's embrace,
