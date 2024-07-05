@@ -3,6 +3,12 @@
 Welcome to my GitHub profile! I'm part of a community of coders who code for fun and embrace the joy of creation and learning.  <br>
 I'm focusing on exploring new technologies and pushing the boundaries of what's possible. I'm also a chess player <br> not very good tho', just a beginner, I guess. But yeah, I love both of them.
 
+
+<div align="left"> 
+<img src="https://komarev.com/ghpvc/profille=?username=cryeed&style=for-the-badge&color=red">
+<a href="https://instagram.com/nch.dev"><img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&labelColor=ffffff&color=d62976"></a>
+</div>
+
 ## Some cool quotes, i guess?
 
 *"Impossible is a word to be found only in the dictionary of fools."* <br>
