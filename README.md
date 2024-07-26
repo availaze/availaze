@@ -10,22 +10,8 @@ I'm focusing on exploring new technologies and pushing the boundaries of what's 
 </div>
 <br>
 
-## Some cool quotes, i guess?
-
-*"Impossible is a word to be found only in the dictionary of fools."* <br>
-– Napoleon Bonaparte <br><br>
-*"The best way to predict the future is to invent it."* <br>
-– Alan Kay <br><br>
-*"Stay hungry, stay foolish."* <br>
-– Steve Jobs <br><br>
-*"Success is not final, failure is not fatal: It is the courage to continue that counts."* <br>
-– Winston Churchill <br><br>
-*"The only limit to our realization of tomorrow is our doubts of today."* <br>
-– Franklin D. Roosevelt <br>
-
 ## Tech Stack
 
-![Astro](https://img.shields.io/badge/Astro-0C2D48?style=for-the-badge&logo=astro&logoColor=F8F8FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-ffffff?style=for-the-badge&logo=csharp&color=%23573c8c)
@@ -55,38 +41,8 @@ I'm focusing on exploring new technologies and pushing the boundaries of what's 
 ![golang](https://img.shields.io/badge/Golang-ffffff?style=for-the-badge&logo=go&logoColor=fff&color=%230771db)
 ![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=fff&color=%23239e5a)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-## My Favorite Chess Opening
 
-> King's Indian Defense
-
-I really love playing the **King's Indian Defense** with a solid and flexible pawn structure, <br> making it a robust opening
-despite its drawback <br>
-
-
-![King's Indian Defense](https://i0.wp.com/chesspathways.com/wp-content/uploads/2019/08/16c.png?resize=300%2C300&ssl=1)
-
-
-```css
-
-King Indian Defense : The Main Line
-
-1. d4 Nf6 
-2. c4 g6 
-3. Nc3 Bg7 
-4. e4 d6 
-5. Nf3 O-O 
-6. Be2 e5 
-7. O-O Nc6 
-8. d5 Ne7 
-9. Ne1 Nd7 
-10. Nd3 f5 
-11. Bd2 Nf6 
-12. f3 f4 
-13. c5 g5
-
-```
-
-## Relief
+## Reliefs 
 
 ```
 In the shadow of the moon's embrace,
