@@ -1,7 +1,7 @@
 # Helloooooooo There 👋
 
 Welcome to my GitHub profile! I'm part of a community of coders who code for fun and embrace the joy of creation and learning.  <br>
-I'm focusing on exploring new technologies and pushing the boundaries of what's possible. I'm also a chess player <br> not very good tho', just a beginner, I guess. But yeah, I love both of them.
+I'm focusing on exploring new technologies and pushing the boundaries of what's possible.
 
 <br>
 
