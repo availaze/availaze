@@ -42,8 +42,6 @@ I'm focusing on exploring new technologies and pushing the boundaries of what's 
 ![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=fff&color=%23239e5a)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-## Reliefs 
-
 ```
 In the shadow of the moon's embrace,
 Whispered secrets find their place.
