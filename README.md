@@ -1,6 +1,6 @@
 # Helloooooooo There 👋
 
-Welcome to my GitHub profile! I'm part of a community of coders who code for fun and embrace the joy of creation and learning.  <br>
+Welcome to my GitHub profile! I'm part of a community of coders who code for fun and embrace the joy of creation and learning.
 I'm focusing on exploring new technologies and pushing the boundaries of what's possible.
 
 <br>
