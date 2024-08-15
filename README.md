@@ -14,7 +14,6 @@ I'm focusing on exploring new technologies and pushing the boundaries of what's 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-ffffff?style=for-the-badge&logo=csharp&color=%23573c8c)
 ![CPlusPlus](https://img.shields.io/badge/C%2B%2B-ffffff?style=for-the-badge&logo=cplusplus&color=%233c5f8c)
 ![MySql](https://img.shields.io/badge/MySql-ffffff?style=for-the-badge&logo=mysql&logoColor=%23fff&color=%234795d1)
 ![Postgre](https://img.shields.io/badge/Postgre-ffffff?style=for-the-badge&logo=postgresql&logoColor=%23fff&color=%231d5682)
